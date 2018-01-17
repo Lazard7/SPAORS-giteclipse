@@ -3,7 +3,7 @@ package primer;
 public class Pozdrav {
 
 	public static void main(String[] args) {
-		System.out.println("Zdravo, Lazar Grabovica!");
+		System.out.println("Zdravo, Lazar Grabovica!!");
 	}
 
 }
